@@ -1,4 +1,5 @@
 <link rel="stylesheet" type="text/css" href="/assets/main.css">
+{% include google-analytics.html %}
 <header>
   <nav>
     <ul>
@@ -25,6 +26,5 @@
   </div>
   <div class="footer-logo">
     <a href="#"><img src="/assets/Oden_institute.svg" alt="Logo 3"></a>
-  </div>
-  {% include google-analytics.html %}
+  </div>  
 </footer>
