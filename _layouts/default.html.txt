@@ -1,0 +1,30 @@
+<link rel="stylesheet" type="text/css" href="/assets/main.css">
+<header>
+  <nav>
+    <ul>
+      {% for page in site.header_pages %}
+        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+  <div class="header-links">
+    <a href="{{ site.github }}">
+      <img src="/assets/github.svg" alt="GitHub" width="24" height="24">
+    </a>
+    <a href="{{ site.linkedin }}">
+      <img src="/assets/linkedin.svg" alt="LinkedIn" width="24" height="24">
+    </a>
+  </div>
+</header>
+<footer>
+  <div class="footer-logo">
+    <a href="#"><img src="/assets/UT_Austin.png" alt="Logo 1"></a>
+  </div>
+  <div class="footer-logo">
+    <a href="#"><img src="/assets/Civil_engineering.svg" alt="Logo 2"></a>
+  </div>
+  <div class="footer-logo">
+    <a href="#"><img src="/assets/Oden_institute.svg" alt="Logo 3"></a>
+  </div>
+  {% include google-analytics.html %}
+</footer>
