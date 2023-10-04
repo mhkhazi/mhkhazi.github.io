@@ -19,3 +19,5 @@ In my undergraduate I worked on two projects on developing flow duration curves 
 ### Contact
 You can reach me via my [email](mailto:mhkhazi@utexas.edu)
 
+![Oden Institute]({{ site.oden_institute_image }}){: width="500" height="100"}
+
