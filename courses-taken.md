@@ -6,6 +6,7 @@ title: Courses
 # Courses Taken
 
 ## Graduate Courses
+
 ### At UT Austin:
 - CE381R: The Finite Element Method
 - CSE393P: Computational and Variational Methods in Inverse Problems
@@ -15,6 +16,7 @@ title: Courses
 - EM386L: Analytical Methods II
 - M393C: Mathematics in Deep Learning
 - CE384P: Dynamic Response of Structures
+
 ### At IIT Madras:
 - ID6010: Constitutive Modeling in Continuum Mechanics
 - ID6070: Mechanics of Viscoelastic Materials
