@@ -16,9 +16,10 @@ title: Skills
 ### Tools & Software
 - Version Control: Git, GitHub
 - Scientific Computing: PETSc, SLEPc
-- Build Systems: Make, CMake
+- Build Systems: Autotools, CMake
 - Mesh Generation: Gmsh
-- Code Editors: Vim, Visual Studio Code, Google Colab
+- Code Editors: Vim, Visual Studio Code, Google Colab 
+- Virtualization: Docker
 - Office Suite: Microsoft Office, Google Workspace
 - Geotechnical Engineering Tools: FLAC, PLAXIS, MSEW 3.0, SlopeW, SeismoSignal
 
