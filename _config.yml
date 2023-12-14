@@ -20,12 +20,12 @@
 
 title: Mohamed Habeebulla Khazi
 email: mhkhazi@utexas.edu
-description: >- # this means to ignore newlines until "baseurl:"
+description: >-     # this means to ignore newlines until "baseurl:"
   PhD/MS Student at UT Austin. 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: G-11H42M98VJ
-github_username: mhkhazi
+#github_username: mhkhazi
 linkedin_username: mohamed-habeebulla-khazi-177b6713a
 header_pages:
   - about.md
@@ -35,8 +35,8 @@ header_pages:
   - teaching.md
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+#plugins:
+ # - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
