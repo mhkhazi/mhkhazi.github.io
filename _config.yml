@@ -20,7 +20,7 @@
 
 title: Mohamed Habeebulla Khazi
 email: mhkhazi@utexas.edu
-description: >-     # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
   PhD/MS Student at UT Austin. 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
