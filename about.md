@@ -3,14 +3,30 @@ layout: default
 title: About
 ---
 
-
-I am a PhD student at UT Austin. 
-I work with Professor [Loukas Kallivokas](https://www.caee.utexas.edu/prof/kallivokas/) and I am a part of the [MUSE Lab](https://www.caee.utexas.edu/muse/) in the [Department of Civil Engineering](https://www.caee.utexas.edu/) at UT Austin.
-Concurrently, I am also pursuing Master's in Computational Science, Engineering, and Mathematics in the [Oden Institute for Computational Engineering & Sciences](https://www.oden.utexas.edu/) with Professors [Loukas Kallivokas](https://www.caee.utexas.edu/prof/kallivokas/) and [Omar Ghattas](https://users.oden.utexas.edu/~omar/) at UT Austin.
-
-Previously, I worked with Professor [Subhadeep Banerjee](https://home.iitm.ac.in/subhadeep/index.htm) for my M.Tech project on the analysis of liquefaction, where I conducted several cyclic triaxial tests and later performed numerical analysis. 
-Shortly afterwards, I worked with Professor [Saravanan Umakanthan](https://civil.iitm.ac.in/faculty/saran/) in the department of structural engineering on the topic of Numerical Technique to solve boundary value problems, where I assisted with the conversion of MATLAB code to C++ code for the purpose of parallelizing the FEM computations for a 2D truss problem.
-In my undergraduate I worked on two projects on developing flow duration curves of Krishna basin and in calculating extreme climate indices of Kaveri Basin using Mann-Kendall and Sen-slope analysis under the supervision of Professor [Lakshman Nandagiri](https://appmech.nitk.ac.in/faculty/lakshman-nandagiri).
+<p style="text-align: justify;">
+    I am a PhD student at <a href="https://www.utexas.edu/">UT Austin</a>, working under the supervision of 
+	Professor <a href="https://www.caee.utexas.edu/prof/kallivokas/">Loukas Kallivokas</a>
+	in the <a href="https://www.caee.utexas.edu/muse/">MUSE Lab</a> within the 
+	<a href="https://www.caee.utexas.edu/">Department of Civil Engineering</a>.
+	Additionally, I am pursuing a Master’s in Computational Science, Engineering, and Mathematics 
+	at the <a href="https://www.oden.utexas.edu/">Oden Institute for Computational Engineering & Sciences</a> 
+	under the supervision of Professors <a href="https://www.caee.utexas.edu/prof/kallivokas/">Loukas Kallivokas</a> 
+	and <a href="https://users.oden.utexas.edu/~omar/">Omar Ghattas</a>.
+	<br><br>
+	While at IIT Madras, I worked with Professor <a href="https://home.iitm.ac.in/subhadeep/index.htm">Subhadeep Banerjee</a> 
+	on my M.Tech project focusing on liquefaction analysis, encompassing cyclic triaxial tests 
+	and subsequent numerical analysis. Subsequently, I collaborated with Professor 
+	<a href="https://civil.iitm.ac.in/faculty/saran/">Saravanan Umakanthan</a> 
+	in the Department of Structural Engineering, developing Numerical Techniques 
+	for boundary value problems. This involved converting MATLAB to C++ for 
+	parallel computation to solve a 2D truss problem using the Finite Element Method (FEM).
+	<br><br>
+	During my undergraduate studies, I worked on two significant projects under the guidance of
+	Professor <a href="https://appmech.nitk.ac.in/faculty/lakshman-nandagiri">Lakshman Nandagiri</a>.
+	One project involved the development of flow duration curves for the Krishna basin. 
+	In the other project, I focused on calculating extreme climate indices of the Kaveri Basin 
+	using Mann-Kendall and Sen's slope analyses.
+</p>
 
 ### Education
 - **B.Tech in Civil Engineering**, [National Institute of Technology Karnataka](https://www.nitk.ac.in/), 2016

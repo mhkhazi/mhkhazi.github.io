@@ -19,14 +19,26 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Mohamed Habeebulla Khazi
-email: mhkhazi@utexas.edu
+#email: mhkhazi@utexas.edu
 description: >- # this means to ignore newlines until "baseurl:"
   PhD/MS Student at UT Austin. 
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#google_analytics: "https://www.googletagmanager.com/gtag/js?id=G-11H42M98VJ"
 google_analytics: G-11H42M98VJ
+#social_links:
+#  - name: GitHub
+#    url: https://github.com/mhkhazi
+#  - name: LinkedIn
+#    url: https://www.linkedin.com/in/mohamed-habeebulla-khazi-177b6713a
+#  - name: Instagram
+#    url: https://www.instagram.com/shahab_habeeb
+#  - name: Facebook
+#    url: https://www.facebook.com/shahab.m.buddin
 #github_username: mhkhazi
-linkedin_username: mohamed-habeebulla-khazi-177b6713a
+#linkedin_username: mohamed-habeebulla-khazi-177b6713a
+#facebook_username: shahab.m.buddin
+#instagram_username: shahab_habeeb
 header_pages:
   - about.md
   - research.md

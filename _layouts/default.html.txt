@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>{{ site.title }}</title>
+  <!--meta name="description" content="{{ site.description }}"-->  
+  <!--link rel="stylesheet" type="text/css" href="/assets/main.css"-->
+  {% if site.google_analytics %}
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-11H42M98VJ"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-11H42M98VJ');
+  </script>
+  {% endif %}
+</head>
+<body>
+
+<header>
+  <h1>{{ site.title }}</h1>
+  <nav>
+    <ul>
+      {% for page in site.header_pages %}
+        <li><a href="{{ page }}">{{ page | replace: '.md', '' | capitalize }}</a></li>
+      {% endfor %}
+    </ul>
+  </nav>
+</header>
+<!-- Your main content goes here
+<main>
+  {% include content.html %}
+</main> 
+-->
+
+<!--
+<footer>
+  <p>&copy; {{ site.title }} - {{ site.email }}</p>
+  <ul class="social-media-list">
+	{% for link in site.social_links %}
+      <li><a href="{{ link.url }}">{{ link.name }}</a></li>
+    {% endfor %}
+  </ul>
+  	<li><a href="https://github.com/mkhazi/">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/mohamed-habeebulla-khazi-177b6713a/">LinkedIn</a></li>
+    <li><a href="https://www.instagram.com/shahab_habeeb/">Instagram</a></li>
+    <li><a href="https://www.facebook.com/shahab.m.buddin/">Facebook</a></li> 
+</footer>
+-->
+</body>
+</html>
