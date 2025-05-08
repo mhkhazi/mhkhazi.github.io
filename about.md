@@ -15,7 +15,7 @@ title: About
 	<br><br>
 	While at IIT Madras, I worked with Professor <a href="https://home.iitm.ac.in/subhadeep/index.htm">Subhadeep Banerjee</a> 
 	on my M.Tech project focusing on liquefaction analysis, encompassing cyclic triaxial tests 
-	and subsequent numerical analysis. Subsequently, I collaborated with Professor 
+	and subsequent numerical analysis. Subsequently, I worked under Professor 
 	<a href="https://civil.iitm.ac.in/faculty/saran/">Saravanan Umakanthan</a> 
 	in the Department of Structural Engineering, developing Numerical Techniques 
 	for boundary value problems. This involved converting MATLAB to C++ for 
